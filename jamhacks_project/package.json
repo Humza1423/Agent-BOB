@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.15.18"
+  },
+  "dependencies": {
+    "expo-blur": "^14.1.4",
+    "expo-image": "^2.1.7"
+  }
+}
